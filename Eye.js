@@ -6,6 +6,6 @@ constructor(x,y){
 
 display(){
 fill(204, 0, 204) // Right Pupil
-ellipse(375, 152, 20, 20);  
+ellipse(375, 152, 20, 20);
  }
 }
